@@ -1,6 +1,6 @@
 <h1 align="center">👋, I'm Rohit</h1>
 <h2 align="center">A Data Enthusiast</h2>
-<!--<img align="right" alt="Coding" width="390" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXl0dzkyOXdyMnd3NWk2eWhiZGFsNm1rN3RqOGhkdngwMGxmZjA2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" height="230" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 <!--
 **blaziken63/blaziken63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <!-- - 💬 <samp>Ask me about my projects in AI, and the technical stack and tools I use for AI and machine learning development.-->
 
 
-<br>
-<h2><b><samp> 🌐Socials</samp></b></h2>
+<br><br><br>
+<h2><b><samp> 🌐Connect to me</samp></b></h2>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/krishnaura45)
 [![image](https://github.com/krishnaura45/krishnaura45/assets/118080140/3e9befb1-2c78-4df9-b3c2-5befc2d0e024)](https://www.kaggle.com/rohitk63)
