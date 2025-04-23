@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Rohit</h1>
+<h1 align="center">👋I'm Rohit</h1>
 <h2 align="center">A Data Enthusiast</h2>
 <img align="right" alt="Coding" height="230" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
@@ -8,8 +8,8 @@
 Here are some ideas to get you started:
 
 
-- 👷 <samp>Currently pursuing my B.Tech 4th year in <b>Data Science and Artificial Intelligence</b> (2021-2025) from <b>International Institute of Information Technology Naya Raipur</b> (Percentage~ 76)
-- 💫 <samp>Schooled from PCM with Computer Science stream from Spring Dale College, ISC Board - 92.5%
+- 👷 <samp>Currently pursuing my B.Tech 2nd year in <b>Data Science and Artificial Intelligence</b> (2024-2028) from <b>IIIT Bhopal</b> (CGPA~ 8.6)
+- 💫 <samp>Schooled from PCM with PEd stream from CBSE Board - 92.5%
 -->
 - 🔭 <samp>I’m currently working on project involving Regression.
 - ✨ <samp>I'm currently learning cutting-edge AI tools.
@@ -43,15 +43,15 @@ Here are some ideas to get you started:
 
 # 📊GitHub Stats :
 
-[<img src="https://github-readme-stats.vercel.app/api?username=blaziken63&show_icons=true&count_private=true&include_all_commits=true&theme=react" height="175">]([https://github-readme-stats.vercel.app/api?username=krishnaura45](https://github-readme-stats.vercel.app/api?username=krishnaura45&theme=react&hide_border=true&include_all_commits=false&count_private=false))
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaziken63&layout=compact&theme=react" height="175">]([https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact))
+[<img src="https://github-readme-stats.vercel.app/api?username=blaziken63&show_icons=true&count_private=true&include_all_commits=true&theme=ambient_gradient" height="175">]([https://github-readme-stats.vercel.app/api?username=krishnaura45](https://github-readme-stats.vercel.app/api?username=krishnaura45&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false))
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blaziken63&layout=compact&theme=ambient_gradient" height="175">]([https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnaura45&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact))
 
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=blaziken63">
-          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=blaziken63&theme=react&hide_border=true">
+          <img width="705" src="https://github-readme-streak-stats.herokuapp.com/?user=blaziken63&theme=ambient_gradient&hide_border=true">
         </a>
       </td>
     </tr>
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blaziken63">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blaziken63&theme=react&hide_border=true"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blaziken63&theme=ambient_gradient&hide_border=true"/>
         </a>
       </td>
     </tr>
@@ -72,12 +72,12 @@ Here are some ideas to get you started:
     <tr>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blaziken63">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blaziken63&theme=react&hide_border=true"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=blaziken63&theme=ambient_gradient&hide_border=true"/>
         </a>
       </th>
       <th>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blaziken63&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blaziken63&theme=react&hide_border=true"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=blaziken63&theme=ambient_gradient&hide_border=true"/>
         </a>
       </th>
     </tr>
@@ -86,12 +86,12 @@ Here are some ideas to get you started:
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blaziken63">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blaziken63&theme=react&hide_border=true"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=blaziken63&theme=ambient_gradient&hide_border=true"/>
         </a>
       </td>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blaziken63">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blaziken63&theme=react&hide_border=true"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=blaziken63&theme=ambient_gradient&hide_border=true"/>
         </a>
       </td>
     </tr>
