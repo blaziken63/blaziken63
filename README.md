@@ -1,5 +1,5 @@
-<h1 align="center">👋I'm Rohit</h1>
-<h2 align="center">A Data Enthusiast</h2>
+<h1 align="center">👋I'm Raghav</h1>
+<h2 align="center">A Coding Enthusiast</h2>
 <img align="right" alt="Coding" height="230" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif">
 
 <!--
